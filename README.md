@@ -24,3 +24,5 @@ https://yw0208.github.io/staf/
 
 https://github.com/camenduru/STAF-colab/assets/54370274/3afb528d-3f21-4c29-b442-370dbc794434
 
+https://github.com/camenduru/STAF-colab/assets/54370274/363d8b63-dfbb-41a8-80a4-45683d139a3b
+
