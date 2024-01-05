@@ -8,6 +8,9 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/STAF-colab/blob/main/STAF_colab.ipynb) | STAF_colab
 
+### 📋 Tutorial
+![Screenshot 2024-01-05 164804](https://github.com/camenduru/STAF-colab/assets/54370274/fdfe6bfe-c9f9-43ff-bad8-9624b5a80af1)
+
 ### 🧬 Code
 https://github.com/yw0208/STAF
 
